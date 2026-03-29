@@ -1,11 +1,11 @@
-# actividad-CRAII-UNIMINUTO-Diagrama de Flujo y Pseudocódigo
+# ACTIVIDAD-CRAII-UNIMINUTO-Diagrama de Flujo y Pseudocódigo
 
 ## Integrantes
 
 - Elias Samuel Rojas Monroy 1 – 1108018
 - Frank Sebastián Mora Largo 2 – 1112041
 
-##Ejercicios
+## Ejercicios
 
 -Bisiesto 4.7
 -DíasSemana 4.9
